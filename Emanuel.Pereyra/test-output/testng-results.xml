@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17775" started-at="2020-06-17T11:24:37 ART" finished-at="2020-06-17T11:24:54 ART">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17775" started-at="2020-06-17T11:24:37 ART" finished-at="2020-06-17T11:24:54 ART">
+      <class name="examenTecnicoTest.TestSearch">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:examenTecnicoTest.TestSearch@6c49835d]" name="beforeTest" is-config="true" duration-ms="10928" started-at="2020-06-17T11:24:37 ART" finished-at="2020-06-17T11:24:48 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="SearchingProduct()[pri:0, instance:examenTecnicoTest.TestSearch@6c49835d]" name="SearchingProduct" duration-ms="6786" started-at="2020-06-17T11:24:48 ART" finished-at="2020-06-17T11:24:54 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchingProduct -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:examenTecnicoTest.TestSearch@6c49835d]" name="afterTest" is-config="true" duration-ms="0" started-at="2020-06-17T11:24:54 ART" finished-at="2020-06-17T11:24:54 ART">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- examenTecnicoTest.TestSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
